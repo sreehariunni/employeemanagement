@@ -1,0 +1,4 @@
+splice() - elament in an array remove 
+indexof()- used to find  index of an elament in an array
+
+uuid(universal unique identifier ) for creating unique ids in react
